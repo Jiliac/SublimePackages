@@ -1,0 +1,11 @@
+[
+
+{ "keys": ["ctrl+alt+a"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+{"keys": ["ctrl+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/EndOfLine.sublime-macro"} },
+{"keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/one_more_line.sublime-macro"} },
+{"keys": ["ctrl+shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/semi-colon.sublime-macro"} },
+{"keys": ["ctrl+delete"], "command": "run_macro_file", "args": {"file": "Packages/User/erase-line.sublime-macro"} },
+{ "keys": ["ctrl+alt+f"], "command": "reindent" , "args": {"single_line": false}},
+{ "keys": ["ctrl+shift+d"], "command": "expand_selection", "args": {"to": "word"} }
+
+]

@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Autocomplete Javascript with Method Signature",
+		"BracketHighlighter",
+		"CleanCSS",
+		"CSS Completions",
+		"CSScheme",
+		"Github Tools",
+		"HTML Page Snippets",
+		"HTML Snippets",
+		"HTML5",
+		"Java Velocity",
+		"JavaScript Patterns",
+		"JavaScript Refactor",
+		"JavaScript Snippets",
+		"JS Snippets",
+		"JsFormat",
+		"Package Control",
+		"Search Stack Overflow",
+		"SublimeCodeIntel",
+		"Theme - Sodarized",
+		"View In Browser"
+	]
+}
